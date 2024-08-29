@@ -2,7 +2,7 @@
 
 🌟 **Areas of Expertise:**
 - Linux/Windows Server Administration
-- Cloud Infrastructure Management (AWS, Azure)
+- Cloud Infrastructure Management (AWS)
 - Configuration Management (Puppet, Ansible)
 - Monitoring and Performance Tuning
 - Backup and Disaster Recovery Solutions
