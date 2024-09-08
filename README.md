@@ -7,7 +7,7 @@
 - Monitoring and Performance Tuning
 - Backup and Disaster Recovery Solutions
 🛠️ **Technologies I'm Proficient In:**
-- AWS, Azure
+- AWS
 - Docker, Nginx, Apache, MySQL
 - Networking Protocols (TCP/IP, DNS, VPN)
 - Scripting Languages (Bash, PowerShell)
